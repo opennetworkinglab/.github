@@ -5,5 +5,5 @@ This is the home of the Aether Project, originally incubated at
 project of the Linux Foundation. (It also hosts a read-only mirror of ONF's flagship 
 SDN Controller, ONOS.) Aether integrates multiple subsystems, with associated repos also
 located [here](https://github.com/onosproject/) and [here](https://github.com/omec-project/).
-Aether documentation is available at https://docs.aetherproject.org and a community wiki is
-available at https://wiki.aetherproject.org.
+Aether documentation is available at https://docs.aetherproject.org and a community wiki
+at https://wiki.aetherproject.org.
